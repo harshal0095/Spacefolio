@@ -1,0 +1,5 @@
+{
+  "name": "Cosmos - Cinematic Space Experience",
+  "description": "A hyper-realistic cosmic web experience featuring multi-layer parallax stars, realistic nebulae, and cinematic camera movement built with Three.js and GSAP.",
+  "requestFramePermissions": []
+}
